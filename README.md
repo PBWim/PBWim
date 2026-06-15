@@ -3,7 +3,7 @@
 🚀 Senior .NET Developer | C# · .NET Core 8 · Azure · Microservices | 10+ Years
 
 🌍 Based in Singapore | Actively relocating to Europe
-    Visa sponsorship required | Available: 6 weeks
+    Visa sponsorship required
 
 🔧 Tech: C# · .NET Core 8 · Angular · ASP.NET Core · Azure · AWS · Docker · Kubernetes · Kafka · Redis
        Entity Framework · Microservices · CI/CD · Angular · TypeScript
