@@ -3,7 +3,7 @@
 🚀 Senior .NET Developer | C# · .NET Core 8 · Azure · Microservices | 10+ Years
 
 🌍 Based in Singapore | Actively relocating to Europe
-    EU Blue Card Eligible
+    - EU Blue Card Eligible
 
 🔧 Tech: C# · .NET Core 8 · Angular · ASP.NET Core · Azure · AWS · Docker · Kubernetes · Kafka · Redis
        Entity Framework · Microservices · CI/CD · Angular · TypeScript
