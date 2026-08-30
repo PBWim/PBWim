@@ -9,7 +9,7 @@
        Entity Framework · Microservices · CI/CD · Angular · TypeScript
 
 🏢 Currently: Senior .NET Developer @ IRAS Singapore (Government)
-📫 pabodha.w.mail@gmail.com | linkedin.com/in/pabodha-wimalasuriya
+📫 pabodha.w.mail@gmail.com | [linkedin.com/in/pabodha-wimalasuriya](https://www.linkedin.com/in/pabodha-wimalasuriya/)
 
 <!---
 PBWim/PBWim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
